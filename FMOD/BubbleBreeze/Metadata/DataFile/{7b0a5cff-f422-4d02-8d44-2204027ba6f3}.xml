@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{7b0a5cff-f422-4d02-8d44-2204027ba6f3}">
+		<property name="assetPath">
+			<value>ExitWind.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bcaa4fde-f9c0-43f0-a606-36021ff0856e}</destination>
+		</relationship>
+	</object>
+</objects>

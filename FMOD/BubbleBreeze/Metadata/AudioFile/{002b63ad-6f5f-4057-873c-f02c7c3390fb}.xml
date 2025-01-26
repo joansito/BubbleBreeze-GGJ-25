@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{002b63ad-6f5f-4057-873c-f02c7c3390fb}">
+		<property name="assetPath">
+			<value>ExpComienza en 3.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.4555102040816328</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bcaa4fde-f9c0-43f0-a606-36021ff0856e}</destination>
+		</relationship>
+	</object>
+</objects>

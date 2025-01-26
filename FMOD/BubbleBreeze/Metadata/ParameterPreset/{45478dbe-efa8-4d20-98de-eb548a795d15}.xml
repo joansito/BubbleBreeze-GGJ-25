@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{45478dbe-efa8-4d20-98de-eb548a795d15}">
+		<property name="name">
+			<value>ClipName</value>
+		</property>
+		<relationship name="folder">
+			<destination>{27a85030-5875-4eae-8cd6-eb973daf84f8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f094ff2c-14e8-42b9-b541-fc00aeb00cd1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f094ff2c-14e8-42b9-b541-fc00aeb00cd1}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>1000</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

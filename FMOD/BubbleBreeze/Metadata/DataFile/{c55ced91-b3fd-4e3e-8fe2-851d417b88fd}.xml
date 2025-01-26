@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c55ced91-b3fd-4e3e-8fe2-851d417b88fd}">
+		<property name="assetPath">
+			<value>WindTunnel.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bcaa4fde-f9c0-43f0-a606-36021ff0856e}</destination>
+		</relationship>
+	</object>
+</objects>

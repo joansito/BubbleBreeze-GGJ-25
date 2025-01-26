@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{762109d0-f761-4c69-bd79-f6983a57b047}">
+		<property name="assetPath">
+			<value>Numeros/Cientos/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bcaa4fde-f9c0-43f0-a606-36021ff0856e}</destination>
+		</relationship>
+	</object>
+</objects>
